@@ -1,0 +1,1 @@
+# serverless-sns-pubsub
